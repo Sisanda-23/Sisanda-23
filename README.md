@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Sisanda! 👋
 
 I'm a passionate **Computer Science student** with a keen interest in **data science**, **software engineering**, and **web development**. I love solving problems, building projects, and learning new technologies. Welcome to my GitHub profile!
 
@@ -10,7 +10,6 @@ I'm a passionate **Computer Science student** with a keen interest in **data sci
 - **Web Development**: HTML, CSS, JavaScript, React
 - **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Tools & Platforms**: Git, GitHub, VS Code, Jupyter Notebook
-- **Cloud & DevOps**: AWS (beginner), Docker (learning)
 
 ---
 
@@ -45,17 +44,16 @@ I'm currently learning:
 
 I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out to me:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **LinkedIn**: https://www.linkedin.com/in/thobile-nkomo-6a6b802ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BT%2B7VipjORFKC2FEcz0aekA%3D%3D
+- **Email**: thobileaby23@gmail.com
 
 ---
 
-## 🎯 Goals for 2023
+## 🎯 Goals for 2025
 
 - Contribute to open-source projects.
 - Build a portfolio website.
-- Earn my first cloud certification (AWS Certified Cloud Practitioner).
+
 
 ---
 
