@@ -7,7 +7,6 @@ I'm a passionate **Computer Science student** with a keen interest in **data sci
 ## 🛠️ Skills
 
 - **Programming Languages**: Python, Java, C++, SQL
-- **Web Development**: HTML, CSS, JavaScript, React
 - **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Tools & Platforms**: Git, GitHub, VS Code, Jupyter Notebook
 
@@ -28,7 +27,11 @@ Here are some of the projects I've worked on:
 3. **Data Visualization Dashboard**  
    - Created an interactive dashboard using Tableau to visualize COVID-19 trends.  
    - [View Project](https://github.com/yourusername/covid-dashboard)
-
+  
+   
+3. **exam-scheduling-optimization**  
+   - Created an interactive dashboard using Tableau to visualize COVID-19 trends.  
+   - [View Project](https://github.com/yourusername/covid-dashboard)
 ---
 
 ## 📚 Learning
