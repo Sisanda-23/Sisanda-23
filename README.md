@@ -1,6 +1,6 @@
 # Hi there, I'm Sisanda! 👋
 
-I'm a passionate **Computer Science student** with a keen interest in **data science**, **software engineering**, and **web development**. I love solving problems, building projects, and learning new technologies. Welcome to my GitHub profile!
+I'm a passionate **Computational and Applied Mathematics student** with a keen interest in **data science**, **Mathematics**, and **web development**. I love solving problems, building projects, and learning new technologies. Welcome to my GitHub profile!
 
 ---
 
