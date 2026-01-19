@@ -16,9 +16,7 @@ I'm a passionate **Computational and Applied Mathematics student** with a keen i
 
 Here are some of the projects I've worked on:
 
-1. **Titanic Survival Prediction**  
-   - Analyzed the Titanic dataset to predict passenger survival using Python and machine learning.  
-   - [View Project](https://github.com/yourusername/titanic-survival-prediction)
+
 
 2. **To-Do List Web App**  
    - Built a simple to-do list app using React and hosted it on GitHub Pages.  
