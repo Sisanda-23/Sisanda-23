@@ -19,11 +19,10 @@ Here are some of the projects I've worked on:
 
 
 1. **Customer Churn Analysis**  
-   - [View Project](https://github.com/yourusername/todo-list-app)
+   - [View Project](https://github.com/Sisanda-23/Customer-Churn-Analysis)
 
-3. **Data Visualization Dashboard**  
-   - Created an interactive dashboard using Tableau to visualize COVID-19 trends.  
-   - [View Project](https://github.com/yourusername/covid-dashboard)
+3. **Student Perfoemance Analysis**  
+   - [View Project](https://github.com/Sisanda-23/Student-Performance-Analysis)
   
    
 3. **exam-scheduling-optimization**  
