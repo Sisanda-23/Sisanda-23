@@ -25,9 +25,9 @@ Here are some of the projects I've worked on:
    - [View Project](https://github.com/Sisanda-23/Student-Performance-Analysis)
   
    
-3. **exam-scheduling-optimization**  
+3. **Financial Performance and Cost Analysis**  
    - Created an interactive dashboard using Tableau to visualize COVID-19 trends.  
-   - [View Project](https://github.com/yourusername/covid-dashboard)
+   - [View Project](https://github.com/Sisanda-23/Financial_Performance_and_Cost_Analysis)
 ---
 
 ## 📚 Learning
