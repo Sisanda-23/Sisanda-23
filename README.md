@@ -1,6 +1,6 @@
 # Hi there, I'm Sisanda! 👋
 
-I'm a passionate **Computational and Applied Mathematics student** with a keen interest in **data science**, **Mathematics**, and **web development**. I love solving problems, building projects, and learning new technologies. Welcome to my GitHub profile!
+I'm a passionate **Computational and Applied Mathematics graduate** with a keen interest in **data science**, **Mathematics**, and **web development**. I love solving problems, building projects, and learning new technologies. Welcome to my GitHub profile!
 
 ---
 
@@ -18,8 +18,7 @@ Here are some of the projects I've worked on:
 
 
 
-2. **To-Do List Web App**  
-   - Built a simple to-do list app using React and hosted it on GitHub Pages.  
+1. **Customer Churn Analysis**  
    - [View Project](https://github.com/yourusername/todo-list-app)
 
 3. **Data Visualization Dashboard**  
@@ -47,14 +46,6 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 
 - **LinkedIn**: https://www.linkedin.com/in/thobile-nkomo-6a6b802ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BT%2B7VipjORFKC2FEcz0aekA%3D%3D
 - **Email**: thobileaby23@gmail.com
-
----
-
-## 🎯 Goals for 2025
-
-- Contribute to open-source projects.
-- Build a portfolio website.
-
 
 ---
 
