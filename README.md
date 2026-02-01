@@ -1,10 +1,10 @@
-# Hi there, I'm Sisanda! 👋
+# Hi there, I'm Sisanda!
 
 I'm a passionate **Computational and Applied Mathematics graduate** with a keen interest in **data science**, **Mathematics**, and **web development**. I love solving problems, building projects, and learning new technologies. Welcome to my GitHub profile!
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Programming Languages**: Python, Java, C++, SQL
 - **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
@@ -12,7 +12,7 @@ I'm a passionate **Computational and Applied Mathematics graduate** with a keen 
 
 ---
 
-## 🚀 Projects
+## Projects
 
 Here are some of the projects I've worked on:
 
@@ -21,13 +21,19 @@ Here are some of the projects I've worked on:
 1. **Customer Churn Analysis**  
    - [View Project](https://github.com/Sisanda-23/Customer-Churn-Analysis)
 
-3. **Student Perfoemance Analysis**  
+2. **Student Perfoemance Analysis**  
    - [View Project](https://github.com/Sisanda-23/Student-Performance-Analysis)
   
    
 3. **Financial Performance and Cost Analysis**  
    - Created an interactive dashboard using Tableau to visualize COVID-19 trends.  
    - [View Project](https://github.com/Sisanda-23/Financial_Performance_and_Cost_Analysis)
+
+4. **Telco Churn Prediction**
+   -[View Project](https://github.com/Sisanda-23/Telco_churn_prediction)
+
+5. **Data Quality and Monitoring System**
+   -[View Project](https://github.com/Sisanda-23/Data_quality_and_monitoring_system)
 ---
 
 ## 📚 Learning
