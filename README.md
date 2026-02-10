@@ -23,7 +23,6 @@ Here are some of the projects I've worked on:
 
 2. **Student Perfoemance Analysis**  
    - [View Project](https://github.com/Sisanda-23/Student-Performance-Analysis)
-  
    
 3. **Financial Performance and Cost Analysis**  
    - Created an interactive dashboard using Tableau to visualize COVID-19 trends.  
@@ -34,6 +33,12 @@ Here are some of the projects I've worked on:
 
 5. **Data Quality and Monitoring System**
    -[View Project](https://github.com/Sisanda-23/Data_quality_and_monitoring_system)
+
+6. **Invertory Sales Managent System**
+   -[View Project](https://github.com/Sisanda-23/Inventory-Sales-Management-System)
+
+7. **Financial Risk Dashboard Power-BI**
+   -[View Project](https://github.com/Sisanda-23/Financial_Risk_-_Revenue_Monitoring_Dashboard-Power_BI-)
 ---
 
 ## 📚 Learning
