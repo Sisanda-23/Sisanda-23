@@ -6,7 +6,7 @@ I'm a passionate **Computational and Applied Mathematics graduate** with a keen 
 
 ## Skills
 
-- **Programming Languages**: Python, Java, C++, SQL
+- **Programming Languages**: Python, Java, C++, SQL, C#
 - **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Tools & Platforms**: Git, GitHub, VS Code, Jupyter Notebook
 
